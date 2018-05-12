@@ -1,0 +1,28 @@
+_repo: A-Letter-to-the-Right-Honorable-the-Lord-Chancellor-on-the-Nature-and-Interpretation-of-Unsou__27740
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haslam, John
+    birthdate: 1764
+    deathdate: 1844
+    gutenberg_agent_id: '32876'
+    url: http://www.gutenberg.org/2009/agents/32876
+description: ''
+gutenberg_issued: '2009-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27740'
+  lccn: 08011341
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RA'
+- !lcsh 'Mental illness -- Jurisprudence'
+title: A Letter to the Right Honorable the Lord Chancellor, on the Nature and Interpretation
+  of Unsoundness of Mind, and Imbecility of Intellect
+url: http://www.gutenberg.org/ebooks/27740
